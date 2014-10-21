@@ -1,2 +1,3 @@
-This is a line in Master branch
+this is a line in Master branch
 and I added the second line in master
+third line to test if auto build in jenkins
